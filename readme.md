@@ -1,16 +1,14 @@
-# Project Name
+Artificial Intelligence and Machine Learning with NVIDIA Final Project
 
- Add short description of project here > 
-
-![add image descrition here](direct image link here)
+This project is designed to use the data set included to train a model to recognize and differentiate between bottles and cans.
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The model is trained using a data set of 25 images of bottles and 25 images of cans. The code prints out the confidence levels for each class, along with the class with the most confidence and what that confidence level is. The code is designed so that when it is run in the shell, the user can input their own images so the model can categorize them as bottles or cans.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+You can train a new model using the data set provided, along with using the model code provided to recognize images. The python file provided is the code that allows the user to input their own images for the model to recognize. 
+You will need to import tensorflow, numpy, argparse, jetson.inference, and jetson.utils for the code to run.
 
 [View a video explanation here](video link)
