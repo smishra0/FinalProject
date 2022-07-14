@@ -1,4 +1,4 @@
-Artificial Intelligence and Machine Learning with NVIDIA Final Project
+# Artificial Intelligence and Machine Learning with NVIDIA Final Project
 
 This project is designed to use the data set included to train a model to recognize and differentiate between bottles and cans.
 
