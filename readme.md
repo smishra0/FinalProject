@@ -11,4 +11,4 @@ The model is trained using a data set of 25 images of bottles and 25 images of c
 You can train a new model using the data set provided, along with using the model code provided to recognize images. The python file provided is the code that allows the user to input their own images for the model to recognize. 
 You will need to import tensorflow, numpy, argparse, jetson.inference, and jetson.utils for the code to run.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://www.youtube.com/watch?v=-PD9b6zIvGE&ab_channel=SahilMishra)
